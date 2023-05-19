@@ -41507,7 +41507,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-repeater-1 {
     min-height: 25px;
     grid-template-columns: calc(50% - 2.5px) calc(50% - 2.5px);
-    grid-auto-columns: calc(50% - 2.5px);
   }
 
   .u-header .u-container-layout-1 {
@@ -41609,17 +41608,9 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 26px;
   }
 
-  .u-header .u-container-layout-1 {
-    padding-bottom: 1px;
-  }
-
   .u-header .u-btn-1 {
     margin-left: -14px;
     margin-right: -14px;
-  }
-
-  .u-header .u-container-layout-2 {
-    padding-bottom: 1px;
   }
 
   .u-header .u-btn-2 {
